@@ -25,13 +25,18 @@ Insert the valid US zip code and some fillings/description and click the button 
 
 ## Project review
 
->Your app looks amazing!<br>
-Good job on the implementation 👍<br>
-The temperature switcher is a great addition 🚀<br>
-Your CSS is well written as well 👏<br>
-Happy coding 😄<br>
-Stay Udacious
+<Congratulations, Udacian!! :boom::boom::boom:
+Dear Student,
 
-Full project review: [click here](https://drive.google.com/file/d/1tXCnDeM7mNPiao5GWBe77tQZBD0qGNED/view?usp=sharing)
+I thoroughly enjoyed reviewing your project! :sparkles::sparkles:
 
-#### Thanks, Nick ;)
+You have an outstanding submission here! I loved your UI too! Looks like a lot of efforts has been put in this project.:metal::metal:
+
+I was really happy to see that you made sure to go through the project requirements and also pass the project in the first go!:blush::blush:
+
+You have written great code, read through the requirement specs properly and made sure to also create a great UI. Well done! :smile::smile:
+
+Keep up the great work. Wishing you continued success in this program! :v::v::v:
+
+
+#### Thanks, Nour ;)

@@ -1,5 +1,5 @@
 # Weather Journal App
-Udacity - Project 3<br>
+Udacity - Project 2<br>
 HTML, CSS, JavaScript, Node.js, Express.js, API
 
 ## Project requirements

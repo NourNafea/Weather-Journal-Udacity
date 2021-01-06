@@ -25,7 +25,7 @@ Insert the valid US zip code and some fillings/description and click the button 
 
 ## Project review
 
-<Congratulations, Udacian!! :boom::boom::boom:
+Congratulations, Udacian!! :boom::boom::boom:
 Dear Student,
 
 I thoroughly enjoyed reviewing your project! :sparkles::sparkles:
